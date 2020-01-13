@@ -1,0 +1,27 @@
+{
+  "name": "hello-mars",
+  "version": "1.1.0-beta.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzAlejandraGonzalez/npm-playbook"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Alejandra Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzAlejandraGonzalez/npm-playbook/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jshint": "^2.11.0-rc1",
+    "karma": "^4.4.1",
+    "lodash": "^4.17.15"
+  }
+}
